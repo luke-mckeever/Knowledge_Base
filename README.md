@@ -1,4 +1,4 @@
-# 🌟 Utilities Repository 🌟
+# 🌟 Knowledge Base 🌟
 
 Welcome to the **Utilities Repository**! This repository serves as a curated collection of **valuable and informational domains, sites, and repositories**. Whether you're diving into cybersecurity, exploring web tools, or managing projects, you'll find some essential resources here.
 
