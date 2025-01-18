@@ -41,6 +41,10 @@ Below is a growing list of categories and their respective resources:
 | [trails.criticalstack.com](https://trails.criticalstack.com) | A curated feed of threat intelligence indicators.                          |
 | [viz.greynoise.io](https://viz.greynoise.io) | A visual analysis platform for internet noise and activity.                |
 | [zoomeye.org](https://zoomeye.org)          | A search engine for cybersecurity and network asset discovery.              |
+| [alienvault.com](https://www.alienvault.com) | A unified security management platform with threat intelligence feeds.     |
+| [virustotal.com](https://www.virustotal.com) | A popular platform for analyzing files, URLs, and domains for malware.     |
+| [cybersixgill.com](https://www.cybersixgill.com) | A platform for threat intelligence with insights from the deep and dark web. |
+| [opencti.io](https://www.opencti.io)         | An open-source threat intelligence platform for sharing and collaboration.  |
 
 ### 🔍 Open Source Intelligence (OSINT)
 
@@ -56,6 +60,10 @@ Below is a growing list of categories and their respective resources:
 | [searchcode.com](https://searchcode.com)    | A source code search engine for developers.                                |
 | [web.archive.org](https://web.archive.org) | The Internet Archive's Wayback Machine for viewing historical website data. |
 | [who.is](https://who.is)                    | A service for discovering domain registration details and history.          |
+| [social-searcher.com](https://www.social-searcher.com) | A tool for monitoring social media and discovering related OSINT data.     |
+| [haveibeenpwned.com](https://haveibeenpwned.com) | A service to check if your accounts have been compromised in breaches.    |
+| [spyonweb.com](https://spyonweb.com)         | A tool for identifying website owners and related domains.                 |
+| [hunter.io](https://hunter.io)               | A platform for finding and verifying professional email addresses.         |
 
 ### 🔧 Vulnerability & Risk Analysis
 
@@ -63,10 +71,9 @@ Below is a growing list of categories and their respective resources:
 |-----------------------|--------------------------------------------------|
 | [exploit-db.com](https://www.exploit-db.com)   | A comprehensive archive of public exploits and software vulnerabilities.    |
 | [fallhunt.io](https://fallhunt.io)          | A platform for analyzing and managing software vulnerabilities.            |
-| [packetstormsecurity.com](https://packetstormsecurity.com) | A source for the latest security tools, exploits, and news.                  |
-| [pulsedrive.com](https://pulsedrive.com)    | A platform for monitoring and managing cybersecurity risks.                |
-| [radar.cloudflare.com](https://radar.cloudflare.com) | A dashboard for internet traffic and security trends provided by Cloudflare. |
-| [vulner.com](https://vulner.com)            | A platform for discovering and managing vulnerabilities.                   |
+| [nvd.nist.gov](https://nvd.nist.gov)         | The National Vulnerability Database for CVE details and analysis.          |
+| [rapid7.com/db](https://www.rapid7.com/db)   | A database of vulnerabilities and exploits maintained by Rapid7.           |
+| [vulners.com](https://vulners.com)           | A search engine and database for vulnerabilities, exploits, and reports.   |
 
 ### 🛠️ Malware Analysis and Sandboxes
 
@@ -77,6 +84,9 @@ Below is a growing list of categories and their respective resources:
 | [hybrid-analysis.com](https://www.hybrid-analysis.com) | A malware analysis service that provides in-depth reports and indicators.   |
 | [joesandbox.com](https://www.joesandbox.com) | A powerful malware analysis platform for detailed threat intelligence.      |
 | [threatconnect.com](https://www.threatconnect.com) | A threat intelligence platform for managing and analyzing security threats. |
+| [cuckoosandbox.org](https://cuckoosandbox.org) | An open-source automated malware analysis system.                          |
+| [reverse.it](https://reverse.it)             | Formerly known as VirusTotal Graph, useful for malware investigation.       |
+| [malpedia.caad.fkie.fraunhofer.de](https://malpedia.caad.fkie.fraunhofer.de) | A platform for identifying and classifying malware families.               |
 
 ### 🌐 Web Tools
 
@@ -91,6 +101,8 @@ Below is a growing list of categories and their respective resources:
 | [urlscan.io](https://urlscan.io)            | A free service to scan and analyze websites for malicious activity.          |
 | [wannabrowser.net](https://wannabrowser.net) | A tool for testing and analyzing HTTP and HTTPS requests.                  |
 | [web-check.as93.net](https://web-check.as93.net) | A tool for scanning and checking website configurations and vulnerabilities. |
+| [httpstatus.io](https://httpstatus.io)       | A tool for testing and analyzing HTTP status codes.                        |
+| [metascanonline.com](https://metascanonline.com) | A platform for analyzing files for malware using multiple engines.          |
 
 ### 🛠️ IP and Network Analysis
 
@@ -102,6 +114,8 @@ Below is a growing list of categories and their respective resources:
 | [talosintellegence.com](https://talosintelligence.com) | Cisco's platform for reputation, threat analysis, and intelligence.         |
 | [whatsmyip.net](https://www.whatsmyip.net)  | A simple service for discovering your public IP address and related details. |
 | [wiggle.net](https://wiggle.net)            | A tool for mapping and analyzing wireless networks.                         |
+| [arin.net](https://arin.net)                 | The American Registry for Internet Numbers, useful for IP allocation data. |
+| [ripe.net](https://ripe.net)                 | RIPE NCC provides IP address allocation data for Europe and beyond.        |
 
 ### 🖥️ System Tools
 
@@ -110,14 +124,10 @@ Below is a growing list of categories and their respective resources:
 | [maltego.com](https://maltego.com)         | A tool for link analysis and data connection visualization.                |
 | [mitmproxy.org](https://mitmproxy.org)     | An interactive HTTPS proxy for analyzing and debugging web traffic.        |
 | [osquery.io](https://osquery.io)           | A powerful tool for querying system information using SQL-like syntax.     |
+| [burpsuite.com](https://burpsuite.com)       | A powerful suite of tools for web application security testing.            |
+| [zap.owasp.org](https://zap.owasp.org)       | OWASP ZAP, a widely used web application security scanner.                 |
 
 *(More categories and resources coming soon!)*
-
----
-
-## 🎨 Fancy Badge Collection
-
-![GitHub Stars](https://img.shields.io/github/stars/your-username/utilities?color=gold&style=for-the-badge) ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge) ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 
 ---
 
