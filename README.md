@@ -26,6 +26,7 @@ This repository is designed to store and share **valuable tools and resources** 
 
 📥 [**Download PE Studio (v9.59)**](https://github.com/luke-mckeever/Knowledge_Base/blob/main/Tools/Malware_Analysis_Tools/pestudio-9.59.zip)  
 🔍 A must-have tool for professionals in malware analysis and reverse engineering. 🚀
+
 ---
 ## 📂 Domains, Sites & Repositories
 
