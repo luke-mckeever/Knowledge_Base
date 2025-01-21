@@ -1,14 +1,6 @@
-# 🌟 Knowledge Base 🌟
+# 🌟 Useful Domains 🌟
 
-Welcome to the **Utilities Repository**! This repository serves as a curated collection of **valuable and informational domains, sites, and repositories**. Whether you're diving into cybersecurity, exploring web tools, or managing projects, you'll find some essential resources here.
-
----
-
-## ✨ Table of Contents
-
-1. [Purpose](#-purpose)
-2. [Tools](#-tools)
-3. [Domains, Sites & Repositories](#-domains-sites--repositories)
+Welcome to the **Useful Domains** Repository! This repository serves as a curated collection of **valuable and informational domains & sites**. Whether you're diving into cybersecurity, exploring web tools, or managing projects, you'll find some essential resources here.
 
 ---
 
@@ -17,18 +9,8 @@ Welcome to the **Utilities Repository**! This repository serves as a curated col
 This repository is designed to store and share **valuable tools and resources** across a variety of categories. From cybersecurity analysis to database management, these resources are here to enhance your productivity and efficiency.
 
 ---
-## 🛠️ Tools:
-📂 [**GitHub Repository: PDF Tools**](https://github.com/luke-mckeever/Knowledge_Base/tree/main/Tools/Malware_Analysis_Tools/PDF_Tools)  
-✨ Dive into the repository to discover cutting-edge resources for PDF analysis. 💻
 
-🗂️ [**GitHub Repository: Malware Analysis Tools**](https://github.com/luke-mckeever/Knowledge_Base/tree/main/Tools/Malware_Analysis_Tools)  
-🚨 Enhance your cybersecurity arsenal with these essential resources for combating malware. 🖥️
-
-📥 [**Download PE Studio (v9.59)**](https://github.com/luke-mckeever/Knowledge_Base/blob/main/Tools/Malware_Analysis_Tools/pestudio-9.59.zip)  
-🔍 A must-have tool for professionals in malware analysis and reverse engineering. 🚀
-
----
-## 📂 Domains, Sites & Repositories
+## 📂 Domains & Sites
 
 Below is a growing list of categories and their respective resources:
 
